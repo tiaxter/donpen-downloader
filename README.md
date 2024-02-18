@@ -1,7 +1,9 @@
-# Donpen Download
+# Donpen Downloader
 ## What is?
-When I landed to Japan, I noticed the Donkihotte Stores and more precisely I "fell in love" for the Donkihotte mascotte: Donpen
+When I landed to Japan, I noticed the Donkihotte Stores and more precisely I "fell in love" for the Donkihotte mascotte: Donpen.
+
 Lately I saw that on the Donkihotte website there are different Donpen's image with different clothes and outfits.
+
 So I created a script to download them.
 
 ## Prerequisites
