@@ -1,0 +1,15 @@
+{
+  "name": "donki-downloader",
+  "version": "1.0.0",
+  "author": "",
+  "main": "index.js",
+  "description": "",
+  "keywords": [],
+  "license": "ISC",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "puppeteer": "^21.7.0"
+  }
+}
